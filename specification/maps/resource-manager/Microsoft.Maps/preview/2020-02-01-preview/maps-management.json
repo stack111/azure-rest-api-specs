@@ -639,7 +639,7 @@
         "tags": [
           "Private Atlases"
         ],
-        "description": "Get all Private Atlas instances for an Azure Map Account",
+        "description": "Get all Private Atlas instances for an Azure Map Account.",
         "operationId": "PrivateAtlases_ListByAccount",
         "x-ms-examples": {
           "ListPrivateAtlasByAccount": {
