@@ -968,7 +968,7 @@
       "description": "Private Atlas resource properties",
       "properties": {
         "provisioningState": {
-          "description": "The state of the resource provisioning, terminal states: Succeeded, Failed, Canceled",
+          "description": "The state of the resource provisioning, terminal states: Succeeded, Failed, Canceled.",
           "type": "string"
         }
       }
